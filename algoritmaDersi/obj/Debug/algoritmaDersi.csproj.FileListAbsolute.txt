@@ -1,0 +1,7 @@
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\bin\Debug\algoritmaDersi.exe.config
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\bin\Debug\algoritmaDersi.exe
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\bin\Debug\algoritmaDersi.pdb
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\obj\Debug\algoritmaDersi.csproj.AssemblyReference.cache
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\obj\Debug\algoritmaDersi.csproj.CoreCompileInputs.cache
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\obj\Debug\algoritmaDersi.exe
+C:\Users\borag\source\repos\algoritmaDersi\algoritmaDersi\obj\Debug\algoritmaDersi.pdb
